@@ -32,7 +32,7 @@ Contributions to enhance the simplicity and functionality of the chat applicatio
    ```bash
    cd chat-app
 3. Open the 'index.html' file in your preferred web browser.
-   ```bash
+   ```bash ..
    git commit -m "Add a concise description of your changes"
 4. Push your changes to your forked repository.
 5. Create a pull request targeting this repository's main branch.
